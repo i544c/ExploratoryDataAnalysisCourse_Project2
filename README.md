@@ -87,3 +87,17 @@ For each plot you should:
 - Upload the PNG file on the Assignment submission page
 
 - Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
+
+## Questions
+
+**Have total emissions from PM_{2.5} decreased in the United States from 1999 to 2008?**
+
+ **`Plot1.png`** Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland from 1999 to 2008?
+
+**`Plot2.png`** Of the four types of sources indicated by the =type= (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999-2008 for Baltimore City? Which have seen increases in emissions from 1999-2008? 
+
+**`Plot3.png`** Across the United States, how have emissions from coal combustion-related sources changed from 1999-2008?
+
+**`Plot4.png`** How have emissions from motor vehicle sources changed from 1999-2008 in Baltimore City?
+
+**`Plot5.png`** Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California. Which city has seen greater changes over time in motor vehicle emissions?
